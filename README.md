@@ -5,7 +5,7 @@
 ## My Toolbox
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=go,java,py,rust,ts,dart,flutter" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=go,java,py,ts,dart,flutter" alt="Languages" />
 
 ### **Tools & Infrastructure**
 <img src="https://skillicons.dev/icons?i=linux,postgres,redis,aws,docker,kubernetes,git,githubactions,vscode" alt="Tools" />
