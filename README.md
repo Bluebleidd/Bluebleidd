@@ -1,24 +1,13 @@
 <div align="center">
-<hr>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there!;General+Ken...;I+mean+Programmer" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there!" />
 
-
-
-## 🛠️ My Toolbox
+## My Toolbox
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=go,java,py,rust" alt="Backend" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts,dart,flutter" alt="Frontend/Mobile" />
+<img src="https://skillicons.dev/icons?i=go,java,py,rust,ts,dart,flutter" alt="Languages" />
 
 ### **Tools & Infrastructure**
-<img src="https://skillicons.dev/icons?i=linux,postgres,redis" alt="OS/DB" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="Cloud/DevOps" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,githubactions,vscode" alt="Workflow" />
-
-<hr />
+<img src="https://skillicons.dev/icons?i=linux,postgres,redis,aws,docker,kubernetes,git,githubactions,vscode" alt="Tools" />
 
 </div>
